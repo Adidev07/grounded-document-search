@@ -1,0 +1,18 @@
+[
+  {
+    "source": "refund-policy.md",
+    "text": "Customers may request a refund within 30 days of purchase. Submit the order number to support. Digital subscriptions are refunded only for unused periods."
+  },
+  {
+    "source": "shipping-guide.md",
+    "text": "Standard shipping takes 3 to 5 business days. Express shipping takes 1 business day. Tracking numbers arrive by email after dispatch."
+  },
+  {
+    "source": "security.md",
+    "text": "API keys must remain on the server. Rotate exposed credentials immediately. Never commit secrets to GitHub."
+  },
+  {
+    "source": "beta-guide.md",
+    "text": "A useful bug report includes reproduction steps, expected behavior, actual behavior, browser version and screenshots. Remove private user data before sharing logs."
+  }
+]
